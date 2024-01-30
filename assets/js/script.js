@@ -9,3 +9,9 @@ function prev(){
 setInterval(
     next,1500
 )
+
+
+
+
+
+
